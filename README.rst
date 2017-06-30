@@ -10,14 +10,13 @@ Introduction
     :target: https://gitter.im/adafruit/circuitpython?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
     :alt: Gitter
 
-TODO
+This is an example CircuitPython library used in an Adafruit Learn Guide.
 
 Dependencies
 =============
 This driver depends on:
 
 * `Adafruit CircuitPython <https://github.com/adafruit/circuitpython>`_
-* `Bus Device <https://github.com/adafruit/Adafruit_CircuitPython_BusDevice>`_
 
 Please ensure all dependencies are available on the CircuitPython filesystem.
 This is easily achieved by downloading
@@ -26,7 +25,10 @@ This is easily achieved by downloading
 Usage Example
 =============
 
-TODO
+.. code-block:
+
+    import adafruit_example
+    adafruit_example.hello()
 
 Contributing
 ============

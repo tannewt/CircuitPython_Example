@@ -23,7 +23,11 @@
 `adafruit_example`
 ====================================================
 
-TODO(description)
+Example module used in an Adafruit Learn Guide.
 
 * Author(s): Scott Shawcroft
 """
+
+def hello():
+    """Prints out a message."""
+    print("hello world!")
