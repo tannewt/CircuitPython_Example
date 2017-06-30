@@ -27,8 +27,8 @@ Usage Example
 
 .. code-block:: python
 
-    import adafruit_example
-    adafruit_example.hello()
+    import example
+    example.hello()
 
 Contributing
 ============
