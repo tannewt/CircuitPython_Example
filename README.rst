@@ -25,7 +25,7 @@ This is easily achieved by downloading
 Usage Example
 =============
 
-.. code-block:
+.. code-block:: python
 
     import adafruit_example
     adafruit_example.hello()
