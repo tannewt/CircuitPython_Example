@@ -2,8 +2,8 @@
 Introduction
 ============
 
-.. image:: https://readthedocs.org/projects/adafruit-circuitpython-example/badge/?version=latest
-    :target: https://circuitpython.readthedocs.io/projects/example/en/latest/
+.. image:: https://readthedocs.org/projects/circuitpython-example/badge/?version=latest
+    :target: https://circuitpython-example.readthedocs.io/en/latest/
     :alt: Documentation Status
 
 .. image :: https://badges.gitter.im/adafruit/circuitpython.svg
